@@ -219,12 +219,6 @@ security:    Applied cybersecurity, JWT auth
 
 <br/><br/>
 
-<!-- Contribution Snake — auto-generated via GitHub Action (snk) -->
-<!-- Setup: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/Takshak-Shetty/Takshak-Shetty/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-<br/>
-
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=Takshak-Shetty&label=Profile+Views&color=38BDF8&style=for-the-badge&cachebust=1"/>
 
@@ -343,7 +337,6 @@ An applied AI project exploring machine learning integration into a practical, r
 <br/>
 
 ![Learning](https://img.shields.io/badge/📚_Learning-Cloud_%26_Security-a855f7?style=for-the-badge&labelColor=0f172a)
-![Open Source](https://img.shields.io/badge/🌍_Open_Source-Active_Contributor-06b6d4?style=for-the-badge&labelColor=0f172a)
 
 </div>
 
