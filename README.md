@@ -204,12 +204,7 @@ security:    Applied cybersecurity, JWT auth
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Takshak-Shetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=a855f7&text_color=c9d1d9&count_private=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=Takshak-Shetty&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=a855f7&fire=06b6d4&currStreakLabel=38BDF8" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takshak-Shetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" height="165"/>
 
 <br/><br/>
 
