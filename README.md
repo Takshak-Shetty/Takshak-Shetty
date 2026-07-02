@@ -230,37 +230,49 @@ security:    Applied cybersecurity, JWT auth
 <tr>
 <td width="50%" valign="top">
 
-### 🏨 Smart Hostel Management System
-Digitizes hostel operations — room allocation, attendance, complaints, and admin oversight — replacing manual registers with a structured, role-based system.
+### 🏨 Hostel Allocation System
+Full-stack hostel management system with JWT auth, SLA-based complaint escalation, real-time room allocation, and separate admin/student dashboards. Deployed on Vercel + Render + Railway.
 
-**Tech:** `React` `Node.js` `Express.js` `MySQL`
+**Tech:** `React` `Vite` `TailwindCSS` `Node.js` `Express` `MySQL` `Prisma` `JWT`
 
-![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square)
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Takshak-Shetty?tab=repositories)
+![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Takshak-Shetty/Hostel_Allocation_System)
+[![Live](https://img.shields.io/badge/Live-Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://hostel-allocation-system-tau.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfolio Website
-A personal developer portfolio showcasing projects, skills, and experience with a clean, modern, responsive UI.
+### 🛡️ CyberRange — Gamified Cybersecurity Training
+A gamified cybersecurity training platform designed to make learning offensive and defensive security engaging and practical.
 
-**Tech:** `React` `Tailwind CSS` `JavaScript`
+**Tech:** `Python`
 
-![Status](https://img.shields.io/badge/Status-Live-22c55e?style=flat-square)
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Takshak-Shetty?tab=repositories)
+![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Takshak-Shetty/CyberRange-Gamified-Cybersecurity-Training-Platform)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI-Based Project
-An applied AI project exploring machine learning integration into a practical, real-world workflow.
+### 🔐 RSA vs Kyber512 — Post-Quantum Benchmark
+Benchmarks RSA-2048 vs post-quantum Kyber512 across key generation, encryption/decryption speed, memory usage, and key size. Generates CSV reports and automated performance visualizations.
 
-**Tech:** `Python` `Machine Learning`
+**Tech:** `Python` `PyCryptodome` `liboqs` `Pandas` `Matplotlib` `Seaborn`
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-eab308?style=flat-square)
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Takshak-Shetty?tab=repositories)
+![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Takshak-Shetty/rsa-kyber512-performance-benchmark)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 EduManage
+MERN stack student records system with role-based access (admin/student), JWT auth, automatic grade calculation, USN validation with department detection, and Swagger API docs.
+
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `bcryptjs`
+
+![Status](https://img.shields.io/badge/Status-Completed-22c55e?style=flat-square)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Takshak-Shetty/EduManage)
 
 </td>
 </tr>
