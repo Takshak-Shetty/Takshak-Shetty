@@ -105,7 +105,6 @@ security:    Applied cybersecurity, JWT auth
 - Cybersecurity
 - Cloud Computing
 - Artificial Intelligence
-- Open Source
 ```
 
 </td>
@@ -218,12 +217,6 @@ security:    Applied cybersecurity, JWT auth
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Takshak-Shetty&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=a855f7&point=06b6d4" width="95%"/>
 
 <br/><br/>
-
-<!-- Contribution Snake — auto-generated via GitHub Action (snk) -->
-<!-- Setup: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/Takshak-Shetty/Takshak-Shetty/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-<br/>
 
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=Takshak-Shetty&label=Profile+Views&color=38BDF8&style=for-the-badge"/>
@@ -353,8 +346,6 @@ Actively exploring and contributing to open-source repositories to sharpen colla
 <br/>
 
 ![Learning](https://img.shields.io/badge/📚_Learning-Cloud_%26_Security-a855f7?style=for-the-badge&labelColor=0f172a)
-![Open Source](https://img.shields.io/badge/🌍_Open_Source-Active_Contributor-06b6d4?style=for-the-badge&labelColor=0f172a)
-
 </div>
 
 <br/>
