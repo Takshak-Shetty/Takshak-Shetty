@@ -105,6 +105,7 @@ security:    Applied cybersecurity, JWT auth
 - Cybersecurity
 - Cloud Computing
 - Artificial Intelligence
+- Open Source
 ```
 
 </td>
@@ -218,8 +219,14 @@ security:    Applied cybersecurity, JWT auth
 
 <br/><br/>
 
+<!-- Contribution Snake — auto-generated via GitHub Action (snk) -->
+<!-- Setup: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/Takshak-Shetty/Takshak-Shetty/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+<br/>
+
 <!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=Takshak-Shetty&label=Profile+Views&color=38BDF8&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Takshak-Shetty&label=Profile+Views&color=38BDF8&style=for-the-badge&cachebust=1"/>
 
 </div>
 
@@ -268,17 +275,6 @@ An applied AI project exploring machine learning integration into a practical, r
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Takshak-Shetty?tab=repositories)
 
 </td>
-<td width="50%" valign="top">
-
-### 🌱 Open Source Contributions
-Actively exploring and contributing to open-source repositories to sharpen collaborative engineering skills.
-
-**Tech:** `Git` `GitHub` `Various`
-
-![Status](https://img.shields.io/badge/Status-Ongoing-38BDF8?style=flat-square)
-[![GitHub](https://img.shields.io/badge/Explore-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Takshak-Shetty?tab=repositories)
-
-</td>
 </tr>
 </table>
 
@@ -313,15 +309,16 @@ Actively exploring and contributing to open-source repositories to sharpen colla
 
 <div align="center">
 
-| Skill | Level |
-|---|---|
-| 🔧 Backend Development | `████████████████████` 85% |
-| 🎨 Frontend Development | `████████████████░░░░` 75% |
-| 🗄️ Database Management | `████████████████░░░░` 78% |
-| 🔐 Cybersecurity | `████████████████░░░░` 80% |
-| 🧩 Problem Solving | `█████████████████░░░` 88% |
-| 🏛️ Leadership | `██████████████████░░` 90% |
-| 💬 Communication | `████████████████████` 85% |
+![Backend](https://img.shields.io/badge/Backend%20Development-Expert-38BDF8?style=for-the-badge&labelColor=0f172a)
+![Frontend](https://img.shields.io/badge/Frontend%20Development-Proficient-a855f7?style=for-the-badge&labelColor=0f172a)
+![Database](https://img.shields.io/badge/Database%20Management-Proficient-06b6d4?style=for-the-badge&labelColor=0f172a)
+
+<br/>
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Advanced-38BDF8?style=for-the-badge&labelColor=0f172a)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Expert-a855f7?style=for-the-badge&labelColor=0f172a)
+![Leadership](https://img.shields.io/badge/Leadership-Expert-06b6d4?style=for-the-badge&labelColor=0f172a)
+![Communication](https://img.shields.io/badge/Communication-Expert-38BDF8?style=for-the-badge&labelColor=0f172a)
 
 </div>
 
@@ -346,6 +343,8 @@ Actively exploring and contributing to open-source repositories to sharpen colla
 <br/>
 
 ![Learning](https://img.shields.io/badge/📚_Learning-Cloud_%26_Security-a855f7?style=for-the-badge&labelColor=0f172a)
+![Open Source](https://img.shields.io/badge/🌍_Open_Source-Active_Contributor-06b6d4?style=for-the-badge&labelColor=0f172a)
+
 </div>
 
 <br/>
