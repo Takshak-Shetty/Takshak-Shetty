@@ -309,16 +309,16 @@ MERN stack student records system with role-based access (admin/student), JWT au
 
 <div align="center">
 
-![Backend](https://img.shields.io/badge/Backend%20Development-Expert-38BDF8?style=for-the-badge&labelColor=0f172a)
-![Frontend](https://img.shields.io/badge/Frontend%20Development-Proficient-a855f7?style=for-the-badge&labelColor=0f172a)
-![Database](https://img.shields.io/badge/Database%20Management-Proficient-06b6d4?style=for-the-badge&labelColor=0f172a)
+![Programming](https://img.shields.io/badge/Programming-Python%20%7C%20Java%20%7C%20C-38BDF8?style=for-the-badge&labelColor=0f172a)
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20HTML%20%7C%20CSS-a855f7?style=for-the-badge&labelColor=0f172a)
+![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20REST-06b6d4?style=for-the-badge&labelColor=0f172a)
 
 <br/>
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Advanced-38BDF8?style=for-the-badge&labelColor=0f172a)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Expert-a855f7?style=for-the-badge&labelColor=0f172a)
-![Leadership](https://img.shields.io/badge/Leadership-Expert-06b6d4?style=for-the-badge&labelColor=0f172a)
-![Communication](https://img.shields.io/badge/Communication-Expert-38BDF8?style=for-the-badge&labelColor=0f172a)
+![Database](https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB%20%7C%20Prisma-38BDF8?style=for-the-badge&labelColor=0f172a)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Networking%20%7C%20JWT-a855f7?style=for-the-badge&labelColor=0f172a)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-06b6d4?style=for-the-badge&labelColor=0f172a)
+![Soft%20Skills](https://img.shields.io/badge/Soft%20Skills-Leadership%20%7C%20Problem%20Solving-38BDF8?style=for-the-badge&labelColor=0f172a)
 
 </div>
 
